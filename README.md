@@ -12,7 +12,7 @@ Choose name of server logs you want to parse and see results:
 
 `Parser.new.parse_logfile('webserver.log')`
 
-### Run miniests
+### Run minitests
 
 Test by:
 ` ruby ./parser_test.rb parser.rb `
